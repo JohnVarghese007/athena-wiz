@@ -45,8 +45,7 @@ def main():
 # WORK ON A --getcsvinfo filename command
 # WORK ON A --histogram filename command
 # that should hopefully be it
-# figure out how to split main into multiple files
-#also remmember to add savefig for all the plots, currently not saving anything
+
 
 
             
